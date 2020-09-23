@@ -1,0 +1,5 @@
+shortboard
+longboard
+fish
+funboard
+twinfin
